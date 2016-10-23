@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Last libretro updates for PS Vita"
-date:   2016-10-20 23:33:58 +0800
+date:   2016-10-24 00:31:00 +0800
 categories: vita emulation
 ---
 
