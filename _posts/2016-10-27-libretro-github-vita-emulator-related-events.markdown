@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "October 26th libretro updates concerning PS Vita emulation and emulators"
-date:   2016-10-26 14:45:00 +0800
+title:  "October 27th libretro updates concerning PS Vita emulation and emulators"
+date:   2016-10-27 14:45:00 +0800
 categories: vita emulation
 ---
 
